@@ -36,6 +36,7 @@ fullName = firstName + " " + lastName;
 
 console.log("Hi, my full name is " + fullName);
 console.log(`Hi, my full name is ${fullName}`);
+// used backticks and didn't need to add a space
 
 const basic = 'Hello';
 const greeting = 'World';
@@ -52,4 +53,7 @@ console.log(url);
 
 // console.log( `Fiften is ${age}`);
 
+let catName = "frankie"; // string is characters within "" or ''
+let myAge = 18; //number, and will always show up in blue in the console
 
+let userProfile = true; //boolean
