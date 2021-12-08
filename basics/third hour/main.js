@@ -108,8 +108,10 @@
 // hello();
 
 
-// //function  parameters and arguments
 
+// //function  parameters and arguments
+let firstName = 'hanah';
+//storing a varible
 function hi(name) {
     //parameter
     console.log('hi there ' + name);
@@ -118,3 +120,4 @@ function hi(name) {
 hi("Imani");
 hi("Abby");
 //argument
+hi(firstname);
