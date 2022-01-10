@@ -133,3 +133,11 @@ let i;
 for (i = 0; i < 21; i++){
 console.log(`i am ${i} years old`);
 }
+
+//wth are event listeners, google later!
+
+//learn more about how to make functional html
+
+//query selector?? update: i think it calls a class in html!
+
+
