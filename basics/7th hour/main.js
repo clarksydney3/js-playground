@@ -137,3 +137,14 @@ console.log(timesPi(8));
 console.log(timesPi(1000));
 
 console.log(piArr);
+
+const isMarried = false;
+const lastName = isMarried ? "Smith" : "Jones";
+
+// also ->
+
+// if(isMarried){
+//     lastName = "smith";
+// } else {
+//     lastName = "Jones";
+// }
